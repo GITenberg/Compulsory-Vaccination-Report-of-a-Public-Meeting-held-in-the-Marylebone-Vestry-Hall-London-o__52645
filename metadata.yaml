@@ -1,0 +1,24 @@
+_repo: Compulsory-Vaccination-Report-of-a-Public-Meeting-held-in-the-Marylebone-Vestry-Hall-London-o__52645
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marylebone Anti-Compulsory Vaccination League
+    gutenberg_agent_id: '46976'
+    url: http://www.gutenberg.org/2009/agents/46976
+description: ''
+gutenberg_issued: '2016-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Smallpox -- Prevention'
+- !lcc 'RM'
+- !lcsh 'Vaccination'
+- GITenberg
+title: "Compulsory Vaccination\r\nReport of a Public Meeting, held in the Marylebone\
+  \ Vestry Hall, London, on Wednesday evening, October 19, 1870."
+url: http://www.gutenberg.org/ebooks/52645
