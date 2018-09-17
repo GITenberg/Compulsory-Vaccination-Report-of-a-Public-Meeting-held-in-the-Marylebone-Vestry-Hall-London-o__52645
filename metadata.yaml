@@ -1,11 +1,16 @@
 _repo: Compulsory-Vaccination-Report-of-a-Public-Meeting-held-in-the-Marylebone-Vestry-Hall-London-o__52645
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52645-h/images/covers.jpg
 creator:
   author:
     agent_name: Marylebone Anti-Compulsory Vaccination League
     gutenberg_agent_id: '46976'
     url: http://www.gutenberg.org/2009/agents/46976
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52645#Compulsory-Vaccination-Report-of-a-Public-Meeting-held-in-the-Marylebone-Vestry-Hall-London-o_
 gutenberg_issued: '2016-07-25'
 gutenberg_type: Text
 identifiers:
